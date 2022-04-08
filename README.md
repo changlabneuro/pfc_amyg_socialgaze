@@ -1,6 +1,6 @@
 This repository contains the analysis and figure-generating code associated with:
 
-[1] Dal Monte, O.*, Fan, S.*, Fagan, N.A., Chu, C.J., Zhou, M.B., Putnam, P.T., Nair, A.R., & Chang, S.W.C. (2022). Widespread implementations of interactive social gaze neurons in the primate prefrontal-amygdala networks. Neuron.
+[1] Dal Monte, O., Fan, S., Fagan, N.A., Chu, C.J., Zhou, M.B., Putnam, P.T., Nair, A.R., & Chang, S.W.C. (2022). Widespread implementations of interactive social gaze neurons in the primate prefrontal-amygdala networks. Neuron.
 
 When cloning this repository, use the `--recursive` flag to fetch the submodule dependencies:
 
