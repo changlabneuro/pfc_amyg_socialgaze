@@ -1,0 +1,3 @@
+[submodule "bfw"]
+	path = bfw
+	url = https://github.com/nfagan/bfw
