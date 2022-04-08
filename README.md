@@ -10,3 +10,5 @@ git clone --recursive https://github.com/changlabneuro/pfc_amyg_socialgaze.git
 
 The decoding scripts additionally depend on the [Neural Decoding Toolbox](http://www.readout.info/)
 [2] Meyers, E. (2013). The Neural Decoding Toolbox. Frontiers in Neuroinformatics, 7:8
+
+[![DOI](https://zenodo.org/badge/479441439.svg)](https://zenodo.org/badge/latestdoi/479441439)
