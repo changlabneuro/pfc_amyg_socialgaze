@@ -1,3 +1,12 @@
 [submodule "bfw"]
 	path = bfw
 	url = https://github.com/nfagan/bfw
+[submodule "shared_utils"]
+	path = shared_utils
+	url = https://github.com/nfagan/shared_utils
+[submodule "dsp3"]
+	path = dsp3
+	url = https://github.com/nfagan/dsp3
+[submodule "categorical"]
+	path = categorical
+	url = https://github.com/nfagan/categorical
